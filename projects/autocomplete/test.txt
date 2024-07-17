@@ -1,0 +1,101 @@
+93827
+      14608512	Shanghai, China
+      13076300	Buenos Aires, Argentina
+      12691836	Mumbai, India
+      12294193	Mexico City, Distrito Federal, Mexico
+      11624219	Karachi, Pakistan
+      11174257	İstanbul, Turkey
+      10927986	Delhi, India
+      10444527	Manila, Philippines
+      10381222	Moscow, Russia
+      10356500	Dhaka, Bangladesh
+      10349312	Seoul, South Korea
+      10021295	São Paulo, Brazil
+       9000000	Lagos, Nigeria
+       8540121	Jakarta, Indonesia
+       8336599	Tokyo, Japan
+       8263100	Zhumadian, China
+       8175133	New York, New York, United States
+       7871900	Taipei, Taiwan
+       7785965	Kinshasa, Democratic Republic of the Congo
+       7737002	Lima, Peru
+       7734614	Cairo, Egypt
+       7556900	London, United Kingdom
+       7480601	Beijing, China
+       7153309	Tehrān, Iran
+       7150000	Nanchong, China
+       7102602	Bogotá, Colombia
+       7012738	Hong Kong, China
+       6310888	Lahore, Pakistan
+       6023699	Rio de Janeiro, Brazil
+       5672513	Baghdad, Iraq
+       5499000	Tai’an, China
+       5104476	Bangkok, Thailand
+       5104047	Bangalore, India
+       5000000	Yueyang, China
+       4837295	Santiago, Chile
+       4800000	Kaifeng, China
+       4631392	Kolkata, India
+       4612191	Toronto, Ontario, Canada
+       4477638	Yangon, Myanmar
+       4394576	Sydney, New South Wales, Australia
+       4328063	Chennai, India
+       4205961	Riyadh, Saudi Arabia
+       4184206	Wuhan, China
+       4039745	Saint Petersburg, Russia
+       3967028	Chongqing, China
+       3950437	Chengdu, China
+       3920222	Chittagong, Bangladesh
+       3811516	Alexandria, Egypt
+       3792621	Los Angeles, California, United States
+       3766207	Tianjin, China
+       3730206	Melbourne, Victoria, Australia
+       3719710	Ahmadābād, India
+       3678555	Pusan, South Korea
+       3677115	Abidjan, Cote d'Ivoire
+       3626068	Kano, Nigeria
+       3597816	Hyderābād, India
+       3590000	Puyang, China
+       3574443	Yokohama-shi, Japan
+       3565108	Ibadan, Nigeria
+       3547809	Singapore, Singapore
+       3517182	Ankara, Turkey
+       3512192	Shenyang, China
+       3467331	Hồ Chí Minh City, Vietnam
+       3460000	Shiyan, China
+       3433441	Cape Town, South Africa
+       3426354	Berlin, Germany
+       3268513	Montréal, Quebec, Canada
+       3255944	Madrid, Spain
+       3229883	Harbin, China
+       3225812	Xi’an, China
+       3222000	Pyongyang, North Korea
+       3200000	Lanzhou, China
+       3152825	Guangzhou, China
+       3144909	Casablanca, Morocco
+       3120282	Durban, South Africa
+       3087010	Nanjing, China
+       3043532	Kabul, Afghanistan
+       3000000	Shenzhen, China
+       3000000	Caracas, Venezuela
+       2935744	Pune, India
+       2894504	Sūrat, India
+       2867446	Jeddah, Saudi Arabia
+       2823249	Kānpur, India
+       2776168	Luanda, Angola
+       2757729	Addis Ababa, Ethiopia
+       2750547	Nairobi, Kenya
+       2722475	Taiyuan, China
+       2711840	Salvador, Brazil
+       2711758	Jaipur, India
+       2698652	Dar es Salaam, Tanzania
+       2695598	Chicago, Illinois, United States
+       2628000	Incheon, South Korea
+       2612800	Yunfu, China
+       2600000	Al Başrah, Iraq
+       2592413	Ōsaka-shi, Japan
+       2587183	Mogadishu, Somalia
+       2566540	Taegu, South Korea
+       2563241	Rome, Italy
+       2537421	Changchun, China
+       
